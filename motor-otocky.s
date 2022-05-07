@@ -15,7 +15,7 @@ LDX   PACTL,#%00
 
 start:
 LDX   R11,#%11
-LDX   R12,#%08    ; pocet otacek prvniho otaceni - 0x08 = 1 otacka (hexadecimalne cili 0x10 jsou dve apod.)
+LDX   R12,#%20    ; pocet otacek prvniho otaceni - 0x20 = 1 otacka (hexadecimalne cili 0x40 jsou dve apod.)
 
 toc:
 LDX   PAOUT,R11
