@@ -29,7 +29,7 @@ CALL  cekej
 CALL  cekej
 CALL  cekej
 
-LDX   R12,#%08    ; pocet otacek druheho otaceni
+LDX   R12,#%20    ; pocet otacek druheho otaceni
 
 toc2:
 LDX   PAOUT,R11
