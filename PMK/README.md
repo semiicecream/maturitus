@@ -2,7 +2,7 @@
 
 **Společný úkol : proveďte  kontrolu hardware PC. Nainstalujte operační systém a ovladače pro celý hardware počítače (počítačů).**
 
-## 1) Pracoviště BIOFEEDBACK. 
+## 1) [Pracoviště BIOFEEDBACK.](https://www.youtube.com/watch?v=tPoqmNe2-t4)
 > Na PC nainstalujte pracoviště s BIOFEEDBACK. Správnou činnost prověřte. V programu BBFlashBack natočte cca 3-min. film o činnosti BIOFEEDBACK. Film opatřete slovním nebo hudebním doprovodem a titulky. Vytvořte komprimovaný soubor a uložte jej na CD.
 
 ## 2) [USB GPS přijímač.](https://github.com/semiicecream/maturitus/blob/main/PMK/gps.md)
@@ -11,7 +11,7 @@
 ## 3) CLUSTER. 
 > Na trojici počítačů prověřte činnost CLUSTERU. MASTER NODE pracuje s prostorem RAMDISC. Instalovaný software je typu WULF. BEO pracují na výpočtových uzlech. Zjistěte počet prvočísel v zadaném intervalu. O výpočtu pořizujte fotodokumentaci (program screenshot, výstřižky) a připravte ji pro tisk (uložení na CD).
 
-## 4) Digitální videokamera. 
+## 4) Digitální videokamera.
 > Na digitální videokameře natočte cca 3 minuty filmu. Nainstalujte střihací program, film na PC sestřihejte, opatřete hudebním doprovodem a titulky a převeďte do komprimovaného formátu. Uložte jej na CD.
 
 ## 5) [ZiLOG - krokový motor.](https://github.com/semiicecream/maturitus/blob/main/PMK/motor-otocky.s)
