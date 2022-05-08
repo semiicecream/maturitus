@@ -1,0 +1,10 @@
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\bin\Debug\_5.Průsečík_dvou_přímek.exe.config
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\bin\Debug\_5.Průsečík_dvou_přímek.exe
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\bin\Debug\_5.Průsečík_dvou_přímek.pdb
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\obj\Debug\5. Průsečík dvou přímek.csprojAssemblyReference.cache
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\obj\Debug\_5.Průsečík_dvou_přímek.Form1.resources
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\obj\Debug\_5.Průsečík_dvou_přímek.Properties.Resources.resources
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\obj\Debug\5. Průsečík dvou přímek.csproj.GenerateResource.cache
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\obj\Debug\5. Průsečík dvou přímek.csproj.CoreCompileInputs.cache
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\obj\Debug\_5.Průsečík_dvou_přímek.exe
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\5. Průsečík dvou přímek\5. Průsečík dvou přímek\obj\Debug\_5.Průsečík_dvou_přímek.pdb

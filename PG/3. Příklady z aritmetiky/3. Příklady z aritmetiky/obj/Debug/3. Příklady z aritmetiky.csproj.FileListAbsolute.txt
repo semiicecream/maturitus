@@ -1,0 +1,9 @@
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\bin\Debug\_3.Příklady_z_aritmetiky.exe.config
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\bin\Debug\_3.Příklady_z_aritmetiky.exe
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\bin\Debug\_3.Příklady_z_aritmetiky.pdb
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\obj\Debug\_3.Příklady_z_aritmetiky.Form1.resources
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\obj\Debug\_3.Příklady_z_aritmetiky.Properties.Resources.resources
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\obj\Debug\3. Příklady z aritmetiky.csproj.GenerateResource.cache
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\obj\Debug\_3.Příklady_z_aritmetiky.exe
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\obj\Debug\_3.Příklady_z_aritmetiky.pdb
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\3. Příklady z aritmetiky\3. Příklady z aritmetiky\obj\Debug\3. Příklady z aritmetiky.csprojResolveAssemblyReference.cache

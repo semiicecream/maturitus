@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Stopky", "4. Stopky\4. Stopky.csproj", "{ACAED08D-5CC9-4976-881E-CD10DBCC2B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAED08D-5CC9-4976-881E-CD10DBCC2B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAED08D-5CC9-4976-881E-CD10DBCC2B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAED08D-5CC9-4976-881E-CD10DBCC2B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAED08D-5CC9-4976-881E-CD10DBCC2B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FD0A30-A265-4C63-B1C5-FD08DAD15954}
+	EndGlobalSection
+EndGlobal

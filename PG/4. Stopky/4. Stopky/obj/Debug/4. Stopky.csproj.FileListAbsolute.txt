@@ -1,0 +1,9 @@
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\bin\Debug\_4.Stopky.exe.config
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\bin\Debug\_4.Stopky.exe
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\bin\Debug\_4.Stopky.pdb
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\obj\Debug\_4.Stopky.Form1.resources
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\obj\Debug\_4.Stopky.Properties.Resources.resources
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\obj\Debug\4. Stopky.csproj.GenerateResource.cache
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\obj\Debug\_4.Stopky.exe
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\obj\Debug\_4.Stopky.pdb
+C:\Users\vanam\OneDrive\_Škola\__Maturita\PG\4. Stopky\4. Stopky\obj\Debug\4. Stopky.csprojResolveAssemblyReference.cache
