@@ -10,3 +10,5 @@
 6. Spustíš program, vyhodí to nějakou hodnotu v dolní části programu.
 7. Ukončíš video, upravíš video a budeš popisovat co jsi dělal
 	(aspoň na začátku kde insertuješ CD a zapojuješ kabel). 
+	
+[Video](https://www.youtube.com/watch?v=9xhawSpqgMI)
